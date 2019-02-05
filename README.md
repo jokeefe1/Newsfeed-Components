@@ -9,7 +9,7 @@ In this project we are going to be building a news feed reader. The goal is to h
   * ES6 classes and the constructor function.
 * DOM
   * Element selection
-  * Basic DOM manipulation
+  * Basic DOM manipulation 
   * Events and event listeners
 		
 ### Setup
